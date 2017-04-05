@@ -1,10 +1,57 @@
-.name {
-	width:45%;
-	margin-right:2%;
-	float: left;
+html {
+	font-size: 100%;
 }
 
-.photo {
-	width:45%;
+.left_box {
 	float: left;
+	max-width:48%;
+    background-color: #800030;
+    font-size: 3em;
+    margin-top: 1%;
 }
+
+#link {
+	color: white;
+}
+    
+#header {
+   	color: white;
+      
+}
+
+.container {
+	max-width: 100%
+	background-color: white;
+}
+
+.top_box {
+	border-style:solid;
+	background-color: #B0B0B0;
+}
+
+.links {
+    background-color: #B0B0B0;
+    margin: 1%;
+}
+    
+body {
+    font-family: helvetica;
+    background-color: #800030;
+}
+    
+#name { 
+    color: white;
+    vertical-align: middle;
+} 
+    
+#photo {
+    max-width: 100%;
+    height:auto;
+}
+
+.right_box {
+	max-width:48%;
+    float: right;
+    border-style: solid;
+    margin-top: 1%;
+} 
